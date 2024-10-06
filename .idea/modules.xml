@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso Java.iml" filepath="$PROJECT_DIR$/Curso Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/IntelliJ IDEA 2024.2.3.iml" filepath="$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/IntelliJ IDEA 2024.2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica - Curso JAVA #25/Practica - Curso JAVA #25.iml" filepath="$PROJECT_DIR$/Practica - Curso JAVA #25/Practica - Curso JAVA #25.iml" />
+    </modules>
+  </component>
+</project>

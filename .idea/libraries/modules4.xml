@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/java/lib/modules/intellij.java.unscramble.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/java/lib/modules/intellij.java.vcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/java/lib/modules/intellij.java.featuresTrainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/java/lib/modules/intellij.java.structuralSearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

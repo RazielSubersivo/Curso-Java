@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fullLine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/full-line-model-java.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/full-line-cpu-detector.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/full-line-model-kotlin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/full-line-native-server.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

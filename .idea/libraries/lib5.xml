@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/gradle-java/lib/gradle-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/gradle-java/lib/gradle-jps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

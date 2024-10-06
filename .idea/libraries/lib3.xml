@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/junit4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/lib-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/product.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/opentelemetry.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/platform-loader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/nio-fs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/external-system-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/app.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/idea_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/jsch-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/app-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/forms_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/stats.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/util_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/rd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/product-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/externalProcess-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/testFramework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/bouncy-castle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/jps-model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/intellij-test-discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/util-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/trove.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/lib/protobuf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

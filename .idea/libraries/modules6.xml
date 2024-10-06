@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="modules6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.python.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.csharp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.go.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.php.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.cppCore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/fullLine/lib/modules/intellij.fullLine.ruby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

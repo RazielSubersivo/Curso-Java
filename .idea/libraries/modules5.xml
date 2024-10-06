@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/cwm-plugin/lib/modules/intellij.platform.navbar.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/cwm-plugin/lib/modules/intellij.platform.execution.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2024.2.3/plugins/cwm-plugin/lib/modules/intellij.terminal.backend.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
